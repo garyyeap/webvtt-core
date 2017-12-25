@@ -1,0 +1,10 @@
+{
+  "name": "webvtt-core",
+  "version": "0.1.0",
+  "jsnext:main": "index.js",
+  "module": "index.js",
+  "repository": "git@github.com:garyyeap/webvtt-core.git",
+  "author": "Gary Yeap <contact@garyyeap.com>",
+  "license": "MIT",
+  "private": false
+}
